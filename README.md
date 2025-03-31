@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ApiAngular
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Coworking-Angular
+Este es el Angular que complementa la vista de mi proyecto de Coworking, utilizalo con el Laravel y no olvides fabricar el contenedor con la conexion de Postgres y sus especificaciones
+>>>>>>> 519aab5002af6a5655756bdfa1297248d8c986e8
